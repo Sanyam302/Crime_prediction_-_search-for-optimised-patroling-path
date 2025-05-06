@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Crime Hotspots - Chicago</title>
+  <meta charset="utf-8" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    #map { height: 90vh; width: 100%; }
+  </style>
+</head>
+<body>
+  <h2 style="text-align: center;">Crime Hotspots - Chicago</h2>
+  <div id="map"></div>
+
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script>
+    const map = L.map('map').setView([41.8781, -87.6298], 12);
+  
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+  
+    fetch('crime_hotspots.json')
+      .then(response => {
+        if (!response.ok) throw new Error("Failed to fetch JSON");
+        return response.json();
+      })
+      .then(data => {
+        const path = data.path;
+  
+        // Helper function to determine color based on risk level
+        function getColor(level) {
+          if (level === "high") return "red";
+          if (level === "medium") return "orange";
+          return "green";
+        }
+  
+        // Draw polyline (the patrol path)
+        const polyline = L.polyline(path.map(coord => [coord.lat, coord.lng]), {
+          color: 'blue',
+          weight: 3,
+          opacity: 0.7,
+          dashArray: '4, 6'
+        }).addTo(map);
+  
+        // Create numbered, color-coded markers along the polyline path
+        path.forEach((coord, index) => {
+          const level = coord.level || "low"; // Default to "low" if no level defined
+          const color = getColor(level);
+
+          // Create a styled number icon with a colored background
+          const numberIcon = L.divIcon({
+            html: `<div style="
+              width: 24px;
+              height: 24px;
+              border-radius: 50%;
+              background: ${color};
+              color: white;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              font-size: 12px;
+              font-weight: bold;
+              border: 2px solid white;
+            ">${index + 1}</div>`,
+            className: '',
+            iconSize: [24, 24],
+            iconAnchor: [12, 12]
+          });
+
+          L.marker([coord.lat, coord.lng], { icon: numberIcon }).addTo(map);
+        });
+    
+        // Fit the map view to the bounds of the polyline
+        map.fitBounds(polyline.getBounds());
+      })
+      .catch(error => {
+        console.error("Error loading JSON:", error);
+      });
+  </script>
+</body>
+</html>
+
+

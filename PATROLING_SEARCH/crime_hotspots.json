@@ -1,0 +1,706 @@
+{
+  "points": [
+    {
+      "block_code": 3708,
+      "lat": 41.89609713,
+      "lng": -87.71389581,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 23611,
+      "lat": 41.76625281,
+      "lng": -87.615273735,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 10394,
+      "lat": 41.86751042,
+      "lng": -87.68726803,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 16199,
+      "lat": 41.88200091,
+      "lng": -87.729273455,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 24464,
+      "lat": 41.757577415,
+      "lng": -87.58590862,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 5341,
+      "lat": 41.865524035,
+      "lng": -87.72271384999999,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 23008,
+      "lat": 41.77419247,
+      "lng": -87.596059465,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 14029,
+      "lat": 41.94621213,
+      "lng": -87.64657968,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 1851,
+      "lat": 41.88789622,
+      "lng": -87.63728144,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 25801,
+      "lat": 41.739600425000006,
+      "lng": -87.611377205,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 941,
+      "lat": 41.86734443,
+      "lng": -87.63229476,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 19574,
+      "lat": 41.79748314,
+      "lng": -87.62416331,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 18503,
+      "lat": 41.80220451,
+      "lng": -87.69403477,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18483,
+      "lat": 41.97503505,
+      "lng": -87.65497484,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18358,
+      "lat": 41.92329349,
+      "lng": -87.74997801,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 32,
+      "lat": 41.67347749,
+      "lng": -87.62174506,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18514,
+      "lat": 41.80365357,
+      "lng": -87.60377245,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18343,
+      "lat": 41.88865695,
+      "lng": -87.74914004,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18246,
+      "lat": 41.80331526,
+      "lng": -87.73202484,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18173,
+      "lat": 41.97137358,
+      "lng": -87.70000582,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18059,
+      "lat": 41.88048995,
+      "lng": -87.7458875,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17739,
+      "lat": 41.86861,
+      "lng": -87.743731,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17696,
+      "lat": 41.80859826,
+      "lng": -87.59681317,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17603,
+      "lat": 41.8081478,
+      "lng": -87.66496197,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17560,
+      "lat": 41.96734967,
+      "lng": -87.75768426,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18506,
+      "lat": 41.80379499,
+      "lng": -87.61007933,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18656,
+      "lat": 41.88041131,
+      "lng": -87.75200596,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18575,
+      "lat": 41.80284769,
+      "lng": -87.61130398,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18620,
+      "lat": 41.87398732,
+      "lng": -87.75152443,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20979,
+      "lat": 41.78815829,
+      "lng": -87.62910631,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20937,
+      "lat": 41.7960258,
+      "lng": -87.76035681,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20650,
+      "lat": 41.79673028,
+      "lng": -87.75581404,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20530,
+      "lat": 41.95317701,
+      "lng": -87.76730766,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20169,
+      "lat": 41.79455389,
+      "lng": -87.58043494,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20096,
+      "lat": 41.79300474,
+      "lng": -87.67062732,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20077,
+      "lat": 41.79319036,
+      "lng": -87.67427053,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20076,
+      "lat": 41.7945114,
+      "lng": -87.60621581,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19817,
+      "lat": 41.79417254,
+      "lng": -87.70357593,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19600,
+      "lat": 41.95051614,
+      "lng": -87.76087223,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19503,
+      "lat": 41.79567496,
+      "lng": -87.73303508,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19466,
+      "lat": 41.79815913,
+      "lng": -87.6063066,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19325,
+      "lat": 41.87665055,
+      "lng": -87.7555871,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19311,
+      "lat": 41.93320891,
+      "lng": -87.75769366,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19183,
+      "lat": 41.79798835,
+      "lng": -87.71593806,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17531,
+      "lat": 41.96722076,
+      "lng": -87.71699468,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17480,
+      "lat": 41.88793794,
+      "lng": -87.74163257,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17497,
+      "lat": 41.87050811,
+      "lng": -87.74088647,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 15471,
+      "lat": 41.95348014,
+      "lng": -87.68845192,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 15937,
+      "lat": 41.87885601,
+      "lng": -87.72667207,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 15924,
+      "lat": 41.86614797,
+      "lng": -87.72678489,
+      "level": "medium",
+      "cost": 3
+    }
+  ],
+  "path": [
+    {
+      "block_code": 3708,
+      "lat": 41.89609713,
+      "lng": -87.71389581,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 16199,
+      "lat": 41.88200091,
+      "lng": -87.729273455,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 5341,
+      "lat": 41.865524035,
+      "lng": -87.72271384999999,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 15924,
+      "lat": 41.86614797,
+      "lng": -87.72678489,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17497,
+      "lat": 41.87050811,
+      "lng": -87.74088647,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17739,
+      "lat": 41.86861,
+      "lng": -87.743731,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18620,
+      "lat": 41.87398732,
+      "lng": -87.75152443,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19325,
+      "lat": 41.87665055,
+      "lng": -87.7555871,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18656,
+      "lat": 41.88041131,
+      "lng": -87.75200596,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18059,
+      "lat": 41.88048995,
+      "lng": -87.7458875,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17480,
+      "lat": 41.88793794,
+      "lng": -87.74163257,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18343,
+      "lat": 41.88865695,
+      "lng": -87.74914004,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 15937,
+      "lat": 41.87885601,
+      "lng": -87.72667207,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 10394,
+      "lat": 41.86751042,
+      "lng": -87.68726803,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 941,
+      "lat": 41.86734443,
+      "lng": -87.63229476,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 1851,
+      "lat": 41.88789622,
+      "lng": -87.63728144,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 14029,
+      "lat": 41.94621213,
+      "lng": -87.64657968,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 18483,
+      "lat": 41.97503505,
+      "lng": -87.65497484,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 15471,
+      "lat": 41.95348014,
+      "lng": -87.68845192,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18173,
+      "lat": 41.97137358,
+      "lng": -87.70000582,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17531,
+      "lat": 41.96722076,
+      "lng": -87.71699468,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17560,
+      "lat": 41.96734967,
+      "lng": -87.75768426,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20530,
+      "lat": 41.95317701,
+      "lng": -87.76730766,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19600,
+      "lat": 41.95051614,
+      "lng": -87.76087223,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19311,
+      "lat": 41.93320891,
+      "lng": -87.75769366,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18358,
+      "lat": 41.92329349,
+      "lng": -87.74997801,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18246,
+      "lat": 41.80331526,
+      "lng": -87.73202484,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19503,
+      "lat": 41.79567496,
+      "lng": -87.73303508,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19183,
+      "lat": 41.79798835,
+      "lng": -87.71593806,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19817,
+      "lat": 41.79417254,
+      "lng": -87.70357593,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18503,
+      "lat": 41.80220451,
+      "lng": -87.69403477,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20077,
+      "lat": 41.79319036,
+      "lng": -87.67427053,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20096,
+      "lat": 41.79300474,
+      "lng": -87.67062732,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17603,
+      "lat": 41.8081478,
+      "lng": -87.66496197,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19574,
+      "lat": 41.79748314,
+      "lng": -87.62416331,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 20979,
+      "lat": 41.78815829,
+      "lng": -87.62910631,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 23611,
+      "lat": 41.76625281,
+      "lng": -87.615273735,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 23008,
+      "lat": 41.77419247,
+      "lng": -87.596059465,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 24464,
+      "lat": 41.757577415,
+      "lng": -87.58590862,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 25801,
+      "lat": 41.739600425000006,
+      "lng": -87.611377205,
+      "level": "high",
+      "cost": 1
+    },
+    {
+      "block_code": 20076,
+      "lat": 41.7945114,
+      "lng": -87.60621581,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 19466,
+      "lat": 41.79815913,
+      "lng": -87.6063066,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18514,
+      "lat": 41.80365357,
+      "lng": -87.60377245,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18506,
+      "lat": 41.80379499,
+      "lng": -87.61007933,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 18575,
+      "lat": 41.80284769,
+      "lng": -87.61130398,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 17696,
+      "lat": 41.80859826,
+      "lng": -87.59681317,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20169,
+      "lat": 41.79455389,
+      "lng": -87.58043494,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 32,
+      "lat": 41.67347749,
+      "lng": -87.62174506,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20650,
+      "lat": 41.79673028,
+      "lng": -87.75581404,
+      "level": "medium",
+      "cost": 3
+    },
+    {
+      "block_code": 20937,
+      "lat": 41.7960258,
+      "lng": -87.76035681,
+      "level": "medium",
+      "cost": 3
+    }
+  ]
+}
